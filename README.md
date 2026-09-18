@@ -34,7 +34,7 @@ We examined these metrics to separate volume-based congestion from structural in
 
 ## Data Source
 
-The dataset used in this project consists of U.S. domestic flight records from January 2019 (`flights_jan_2019.csv`). To avoid skewing the data, airports with fewer than 1,000 monthly flights were excluded from the primary analysis.
+The dataset used in this project consists of U.S. domestic flight records from January 2019 (`(https://www.kaggle.com/code/hsingc/predicting-flight-delays)`). To avoid skewing the data, airports with fewer than 1,000 monthly flights were excluded from the primary analysis.
 
 ## Credits
 
