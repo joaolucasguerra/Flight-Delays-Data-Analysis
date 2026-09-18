@@ -30,11 +30,10 @@ We examined these metrics to separate volume-based congestion from structural in
 
 1.  **View Visualizations:** Open the `.twbx` file using Tableau Desktop or the free Tableau Reader.
 2.  **Read the Findings:** View the included `Flight-Delays Project Presentation.pdf` for a high-level executive summary of our insights and recommendations.
-3.  **Explore the Article:** Check out our LinkedIn Article for a broader narrative analysis and breakdown of this data.
 
 ## Data Source
 
-The dataset used in this project consists of U.S. domestic flight records from January 2019 (`(https://www.kaggle.com/code/hsingc/predicting-flight-delays)`). To avoid skewing the data, airports with fewer than 1,000 monthly flights were excluded from the primary analysis.
+The dataset used in this project consists of U.S. domestic flight records from January 2019 (`https://www.kaggle.com/code/hsingc/predicting-flight-delays`). To avoid skewing the data, airports with fewer than 1,000 monthly flights were excluded from the primary analysis.
 
 ## Credits
 
